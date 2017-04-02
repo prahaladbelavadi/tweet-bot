@@ -1,0 +1,17 @@
+{
+  "name": "tweet-bot(status-update)",
+  "version": "1.0.0",
+  "description": "Posts a tweet on twitter.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twiiter"
+  ],
+  "author": "Prahalad Belavadi",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
